@@ -73,6 +73,8 @@ Apresente uma breve descrição da sua aplicação ou produto.
   - Descreva o que acontece ou pode acontecer passo a passo
   - Como a tarefa começa? Como a tarefa se desenvolve? Como a tarefa termina?
 
+
+<!--
 ## Análise de concorrência
 
 - Pesquise serviços ou podutos existentes atualmente que possam realizar o objetivo deste projeto.
@@ -80,7 +82,8 @@ Apresente uma breve descrição da sua aplicação ou produto.
 - Em relação aos concorrentes, respondam as seguintes perguntas?
   - Existe plataforma similar que atende o mesmo mercado e funcionalidades? Se sim: Quais os pontos positivos? Quais os pontos negativos?
   - Existe plataforma diferente quanto ao serviço, mas que atenda esse mercado? Se sim: Quais os pontos positivos? Quais os pontos negativos?
-
+ -->
+ 
 ## Coleta de dados
 
 ## Modelo de tarefas
