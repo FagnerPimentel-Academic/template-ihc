@@ -14,9 +14,9 @@ Apresente uma breve descrição da sua aplicação ou produto.
 
 ## Introdução
  
-- Apresente o propósito do profuto ou serviço e quais são os principais benefícios que ele oferece aos usuários.
-- Identifique os problemas ou necessidades que o profuto ou serviço resolve ou satisfaz.
-- Liste as características e funcionalidades do seu profuto ou serviço de forma detalhada.
+- Apresente o propósito do produto ou serviço e quais são os principais benefícios que ele oferece aos usuários.
+- Identifique os problemas ou necessidades que o produto ou serviço resolve ou satisfaz.
+- Liste as características e funcionalidades do seu produto ou serviço de forma detalhada.
 - Liste as tecnologias e ferramentas computacionais que pretendem usar neste projeto (TCC).
 - Apresente o contexto de uso dessa aplicação.
 
