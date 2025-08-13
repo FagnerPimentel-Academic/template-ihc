@@ -18,7 +18,7 @@ Apresente uma breve descrição da sua aplicação ou produto.
 - Identifique os problemas ou necessidades que o produto ou serviço resolve ou satisfaz.
 - Liste as características e funcionalidades do seu produto ou serviço de forma detalhada.
 - Liste as tecnologias e ferramentas computacionais que pretendem usar neste projeto (TCC).
-- Apresente o contexto de uso dessa aplicação.
+- Apresente o contexto de uso dessa aplicação. (“Usuários, tarefas, equipamentos (hardware, software e materiais) e o ambiente físico e social no qual um produto é usado.”)
 
 ## Publico Alvo
 
