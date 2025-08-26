@@ -1,6 +1,6 @@
 # Projeto de Interface Humano-Computador
 
-Projeto apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Interface Humano-Computador (CC8122) do curso de Ciencia da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](https://github.com/fagnerpimentel).
+Projeto apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Interface Humano-Computador (CC8122) do curso de Ciencia da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](https://github.com/fagnerpimentel) e Prof. Dr. Plino Thomaz Aquino Junior.
 
 Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **Título do TCC** sob orientação do Professor **Nome do Orientador** e desenvolvido pelos seguintes alunos:
 
@@ -10,15 +10,18 @@ Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **Tí
 
 ## Resumo
 
-Apresente uma breve descrição da sua aplicação ou produto.
 
 ## Introdução
- 
-- Apresente o propósito do produto ou serviço e quais são os principais benefícios que ele oferece aos usuários.
-- Identifique os problemas ou necessidades que o produto ou serviço resolve ou satisfaz.
-- Liste as características e funcionalidades do seu produto ou serviço de forma detalhada.
-- Liste as tecnologias e ferramentas computacionais que pretendem usar neste projeto (TCC).
-- Apresente o contexto de uso dessa aplicação. (“Usuários, tarefas, equipamentos (hardware, software e materiais) e o ambiente físico e social no qual um produto é usado.”)
+
+Sobre o produto ou serviço que seu grupo está desenvolvendo, responda:
+- Apresente uma breve descrição.
+- Apresente o objetivo. 
+- Apresente o usuário final.
+- Apresente os principais benefícios para o usuários.
+- Apresente as funcionalidades.
+- Apresente as tecnologias e ferramentas computacionais utilizadas.
+- Apresente o contexto de uso.
+- O produto ou serviço prevê o desenvolvimento de interface? (Sim/Não)
 
 ## Publico Alvo
 
