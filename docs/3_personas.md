@@ -6,6 +6,9 @@
 - Quais informações sobre o usuário o serviço ou poduto deve guardar?
 - Apresnete apenas as personas primárias.
 
+
+> **_NOTE:_**: Cada persona deve ter uma foto de rosto que a represente. Vocês podem utilizar esse [site](https://thispersondoesnotexist.com/) para gerar as fotos.
+
 # Mapa de empatia
 
 ![Mapa de empatia](imagens/empatia.png)
